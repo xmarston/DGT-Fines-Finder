@@ -1,6 +1,4 @@
-# frozen_string_literal: true
-
-module Finder
+module DGTFinder
   require 'selenium/webdriver'
 
   class Scrapper

@@ -1,0 +1,22 @@
+*.gem
+*.rbc
+.bundle
+.config
+.yardoc
+InstalledFiles
+_yardoc
+coverage
+doc/
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# Delete Gemfile.loock according with
+# https://depfu.com/blog/2017/01/18/bundler-and-gemfile-best-practices
+# Gemfile.lock would be managed only on dependencies and projects to avoid
+# innecesaries gem conflicts
+Gemfile.lock

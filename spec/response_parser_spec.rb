@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require 'rspec'
-require_relative '../lib/finder/response_parser'
+require_relative '../lib/dgt_finder/response_parser'
 
 describe 'ResponseParse' do
   let(:response_parse) do

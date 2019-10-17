@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require 'rspec'
-require_relative '../lib/finder/scrapper'
+require_relative '../lib/dgt_finder/scrapper'
 
 describe 'Scrapper' do
   let(:scrapper) do

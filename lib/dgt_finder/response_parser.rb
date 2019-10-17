@@ -1,6 +1,4 @@
-# frozen_string_literal: true
-
-module Finder
+module DGTFinder
   class ResponseParser
     NO_FINE = 'No existen resultados para la búsqueda especificada'
 
